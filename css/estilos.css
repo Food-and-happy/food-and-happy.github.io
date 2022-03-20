@@ -650,6 +650,12 @@ font-size: 160%;
 
 	}
 
+	}    
+.imagen-port{
+    width: 100%;
+
+   } 
+
 	.card{
 		width: 95%;
 	}
@@ -696,6 +702,10 @@ font-size: 160%;
 		width: 100%;
 
 	}
+
+	.imagen-port{
+    width: 44%;
+}
 	.card__title{
 		width: 70%;
 	}
