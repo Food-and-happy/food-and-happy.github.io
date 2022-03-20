@@ -483,11 +483,13 @@ font-size: 160%;
 		font-size: 20px;
 
 	}
+
 	.cta{
 		padding: 15px 22px;
-
+    
 
 	}
+
 	.container-cards{
 		justify-content: space-evenly;
 	}
@@ -595,6 +597,11 @@ font-size: 160%;
 		width: 80%;
 	}
 
+	.imagen-port{
+    width: 80%;
+
+   } 
+
 	.container-bg{
 		justify-content: space-evenly;
 	}
@@ -650,12 +657,6 @@ font-size: 160%;
 
 	}
 
-	}    
-.imagen-port{
-    width: 80%;
-
-   } 
-
 	.card{
 		width: 95%;
 	}
@@ -663,6 +664,8 @@ font-size: 160%;
 		width: 100%;
 		display: none;
 	}
+
+
 
 	.testimony__card{
 		width: 100%;
@@ -702,10 +705,6 @@ font-size: 160%;
 		width: 100%;
 
 	}
-
-	.imagen-port{
-    width: 44%;
-}
 	.card__title{
 		width: 70%;
 	}
